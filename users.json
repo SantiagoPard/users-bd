@@ -2,16 +2,26 @@
     {
         "cc":"1054090216",
         "nombre":"santiago",
+         "cargo":"Programador",
         "correo":"lspardo@uniboyaca.edu.co"
     },
     {
         "cc":"1054090216",
         "nombre":"luis",
+         "cargo":"Analista",
         "correo":"luicastillo@uniboyaca.edu.co"
     },
     {
         "cc":"1054090216",
         "nombre":"José",
+         "cargo":"DirectorTI",
         "correo":"jdvargasr@uniboyaca.edu.co"
+    },
+    {
+        "cc":"1054090216",
+        "nombre":"Santiago",
+        "cargo":"Adminsistrador",
+        "correo":"santiagopardo32@gmail.com"
     }
+    
 ]
