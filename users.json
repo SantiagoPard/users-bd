@@ -22,6 +22,12 @@
         "nombre":"Santiago",
         "cargo":"Adminsistrador",
         "correo":"santiagopardo32@gmail.com"
+    },
+    {
+        "cc":"1054090216",
+        "nombre":"Camilo",
+        "cargo":"Profesor",
+        "correo":"chbohorquez@uniboyaca.edu.co"    
     }
     
 ]
